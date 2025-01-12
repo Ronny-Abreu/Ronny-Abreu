@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Developer in <a href="https://itla.edu.do/"></a>.
+I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Developer in <a href="https://itla.edu.do/">ITLA</a>.
 - 🧑‍💻 I’m currently learning ...
 
 -WEB FRONT-END
@@ -32,16 +32,11 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </span>
 
-<h4> creation of ChatBots </h4>
+<h4>Creation of ChatBots</h4>
 <span>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-
-
-
-
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Bot">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Bot">
 </span>
 
 ## Check out my Social Media
