@@ -7,10 +7,10 @@
 I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Developer in <a href="https://itla.edu.do/"</a>.
 - 🧑‍💻 I’m currently learning ...
 
-   WEB FRONT-END
-- HTML5, CSS3, JS.
+-WEB FRONT-END
+   - HTML5, CSS3, JS.
   
-  WEB BACK-END
+-WEB BACK-END
   - Python with Flask and Django
   - C#
   - PHP
@@ -22,14 +22,14 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://banner2.cleanpng.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg">
-  <img src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png)">
-  <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png.webp">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png">
- 
 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 </span>
 
