@@ -46,12 +46,11 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/abreuronny_/?hl=es" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="mailto:dleonabreuronnyl@protonmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻" >
-  <img src="https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white" alt="Proton">
-</a>
+<p align="left">
+<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="D Leon Ronny "  /></a>
+<a href = "mailto:dleonabreuronny@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dleonabreuronny"  /></a>
+  </p>
+<br>
 
 <h2>Github stats:</h2> 
 
