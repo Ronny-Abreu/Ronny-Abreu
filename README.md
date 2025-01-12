@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hey, soy Ronny De Leon🎃 </b></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img src="https://media.tenor.com/df1zLs5IsnoAAAAd/vapira-anime-girl-black.gif" width="300px" align="center" alt="Vapira Anime GIF">
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
