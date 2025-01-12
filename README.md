@@ -56,6 +56,6 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=tuerre&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tuerre)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=tuerre&theme=material-palenight)](https://github.com/tuerre)
+[![](https://github-readme-stats.vercel.app/api?username=Ronny-Abreu&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ronny-Abreu)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ronny-Abreu&theme=material-palenight)](https://github.com/Ronny-Abreu)
 </div>
