@@ -1,6 +1,8 @@
 <h1 align="center"><b>Hey, soy Ronny De Leon🎃 </b></h1>
 <!--  -->
-<img src="https://media.tenor.com/df1zLs5IsnoAAAAd/vapira-anime-girl-black.gif" width="300px" align="center" alt="Vapira Anime GIF">
+<div style="float:right; margin-left: 10px;">
+  <img src="https://media.giphy.com/media/YnQWBOGVavTFK/giphy.gif" alt="GIF de Berserk" width="200" style="border-radius: 50%;"/>
+</div>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
