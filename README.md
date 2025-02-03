@@ -10,13 +10,12 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
 - 🧑‍💻 I’m currently learning ...
 
 -WEB FRONT-END
-   - HTML5, CSS3, JS.
+   - HTML5, CSS3, JS - intermedio
   
 -WEB BACK-END
-  - Python with Flask and Django
+  - Python with Flask
   - Databases MySQL, SQL
   - C#
-  - PHP
     
 - 👯 I’m not looking forward to collaborate on open source projects.
 - 📫 Reach out to me at: <a href="mailto:dleonabreuronny@gmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻">dleonabreuronny@gmail.com</a>
