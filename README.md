@@ -15,7 +15,7 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
 -WEB BACK-END
   - Python with Flask
   - Databases MySQL, SQL
-  - C#
+  - learning C#
     
 - 👯 I’m not looking forward to collaborate on open source projects.
 - 📫 Reach out to me at: <a href="mailto:dleonabreuronny@gmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻">dleonabreuronny@gmail.com</a>
