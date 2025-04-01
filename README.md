@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, soy Ronny Abreu🎃 </b></h1>
+<h1 align="center"><b>Hey, I'm Ronny Abreu 🎃 </b></h1>
 <!--  -->
 <div style="float:right; margin-left: 10px;">
   <img src="https://media.giphy.com/media/YnQWBOGVavTFK/giphy.gif" alt="GIF de Berserk" width="200" style="border-radius: 50%;"/>
@@ -14,8 +14,8 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
   
 -WEB BACK-END
   - Python with Flask
-  - Databases MySQL, SQL
-  - learning C#
+  - Databases MySQL, SQL, MongoDB
+  - learning C#, ASP NET CORE / FW .NET
     
 - 👯 I’m not looking forward to collaborate on open source projects.
 - 📫 Reach out to me at: <a href="mailto:dleonabreuronny@gmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻">dleonabreuronny@gmail.com</a>
