@@ -17,8 +17,6 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
   - Databases MySQL, SQL, MongoDB
   - learning C#, ASP NET CORE / FW .NET
     
-- 👯 I’m not looking forward to collaborate on open source projects.
-- 📫 Reach out to me at: <a href="mailto:dleonabreuronny@gmail.com?Subject=Hey,%20soy%20aka.%20👨‍💻">dleonabreuronny@gmail.com</a>
 
 ## My Skills Include
 
@@ -48,7 +46,7 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
   <a href="mailto:dleonabreuronny@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dleonabreuronny" />
   </a>
-  <a href="https://www.instagram.com/brantlauro/" target="_blank">
+  <a href="[https://www.instagram.com/abreuronny_/]" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
   </a>
 </p>
@@ -56,6 +54,6 @@ I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Develo
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Ronny-Abreu&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ronny-Abreu)
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Ronny-Abreu&theme=material-palenight)](https://github.com/Ronny-Abreu)
 </div>
