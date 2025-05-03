@@ -1,59 +1,53 @@
-<h1 align="center"><b>Hey, I'm Ronny Abreu 🎃 </b></h1>
-<!--  -->
-<div style="float:right; margin-left: 10px;">
-  <img src="https://media.giphy.com/media/YnQWBOGVavTFK/giphy.gif" alt="GIF de Berserk" width="200" style="border-radius: 50%;"/>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF7F50&center=true&vCenter=true&width=700&lines=Hola%2C+Soy+Ronny+De+Le%C3%B3n;Desarrollador+Web+Junior;+Aprendizaje+continuo" alt="Typing SVG" />
+</h1>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+---
 
-I'm 20 Years old, Santo Domingo, DR. Junior Developer. Student of Sofware Developer in <a href="https://itla.edu.do/">ITLA</a>.
-- 🧑‍💻 I’m currently learning ...
 
--WEB FRONT-END
-   - HTML5, CSS3, JS - intermedio
-  
--WEB BACK-END
-  - Python with Flask
-  - Databases MySQL, SQL, MongoDB
-  - learning C#, ASP NET CORE / FW .NET
-    
+<p><img align="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAj/anime.gif" width="250"/></p>
 
-## My Skills Include
+🎓 Estudiante de **Desarrollo de Software**  
 
-<h4>Languages</h4>
-<span>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <br>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python Logo"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-</span>
+Actualmente enfocado en:
 
-<h4>Creation of ChatBots</h4>
-<span>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Bot">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Bot">
-</span>
+- 🧩 Desarrollo Full Stack con **ASP.NET Core** y **APIs RESTful**
+- 🎨 Diseño UI moderno usando **Tailwind CSS** y **Figma**
+- 🌱 Profundizando en **ASP, .NET, JavaScript** y explorando **React**
 
-## Check out my Social Media
+---
 
-<p align="left">
-  <a href="https://www.facebook.com/ronny.dleon.7" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="D Leon Ronny" />
-  </a>
-  <a href="mailto:dleonabreuronny@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dleonabreuronny" />
-  </a>
-  <a href="[https://www.instagram.com/abreuronny_/]" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-  </a>
+### 🛠️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,cs,dotnet,py,flask" alt="Tecnologías" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Tecnologías" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
 </p>
 
+---
 
-<h2>Github stats:</h2> 
+### 👤 Conexiones
+
+<p align="left">
+   <a href="https://www.instagram.com/abreuronny_/?igsh=MTR3b2EzMWluZHZucQ%3D%3D&utm_source=qr" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram contact" /></a>
+  <a href="https://discordapp.com/users/_slimreaperr" target="blank"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord contact" /></a>
+ <a href="mailto:dleonabreuronny@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="Email contact" /></a>
+
+</p>
+<br>
+
+### 🌱 Actualmente Aprendiendo
+
+```diff
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Ronny-Abreu&theme=material-palenight)](https://github.com/Ronny-Abreu)
-</div>
++ Frontend: Profundizando en JavaScript y explorando React.
++ Backend: Dominando ASP.NET Core y desarrollo de APIs RESTful.
++ Bases de Datos: Avanzando en MongoDB y consultas avanzadas en SQL Server.
+! Próximamente: Bootstrap y consumo de APIs desde frontend.
+! Mejorando mi nivel de inglés para desarrollo global.
