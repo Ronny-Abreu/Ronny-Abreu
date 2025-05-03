@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF7F50&center=true&vCenter=true&width=700&lines=Hola%2C+Soy+Ronny+De+Le%C3%B3n;Desarrollador+Web+Junior;+Aprendizaje+continuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=f73333b0&center=true&vCenter=true&width=700&lines=Hola%2C+Soy+Ronny+De+Le%C3%B3n;Desarrollador+Web+Junior;+Aprendizaje+continuo" alt="Typing SVG" />
 </h1>
 
 ---
@@ -7,13 +7,13 @@
 
 <p><img align="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAj/anime.gif" width="250"/></p>
 
-🎓 Estudiante de **Desarrollo de Software**  
+🎓 **Estudiante de Desarrollo de Software** 🟠
 
 Actualmente enfocado en:
 
 - 🧩 Desarrollo Full Stack con **ASP.NET Core** y **APIs RESTful**
 - 🎨 Diseño UI moderno usando **Tailwind CSS** y **Figma**
-- 🌱 Profundizando en **ASP, .NET, JavaScript** y explorando **React**
+- 🌱 **ASP, .NET, JavaScript** y explorando **React**
 
 ---
 
@@ -23,7 +23,7 @@ Actualmente enfocado en:
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,cs,dotnet,py,flask" alt="Tecnologías" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Tecnologías" />
+<img src="https://skillicons.dev/icons?i=bootstrap,figma,git,github,vscode,visualstudio" alt="Tecnologías" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
@@ -46,8 +46,9 @@ Actualmente enfocado en:
 ```diff
 
 
-+ Frontend: Profundizando en JavaScript y explorando React.
-+ Backend: Dominando ASP.NET Core y desarrollo de APIs RESTful.
-+ Bases de Datos: Avanzando en MongoDB y consultas avanzadas en SQL Server.
-! Próximamente: Bootstrap y consumo de APIs desde frontend.
+
 ! Mejorando mi nivel de inglés para desarrollo global.
+
+```
+![snake gif](https://github.com/Ronny-Abreu/Ronny-Abreu/blob/output/github-snake-dark.svg)
+
