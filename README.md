@@ -20,10 +20,10 @@ Actualmente enfocado en:
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,cs,dotnet,py,flask" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,cs,bootstrap,dotnet,py,flask" alt="Tecnologías" />
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap,figma,git,github,vscode,visualstudio" alt="Tecnologías" />
+<img src="https://skillicons.dev/icons?i=firebase,figma,git,github,vscode,visualstudio" alt="Tecnologías" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
