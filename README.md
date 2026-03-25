@@ -20,7 +20,7 @@ Actualmente enfocado en:
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,html,css,tailwind,js,react,nextjs,figma" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=astro,html,css,tailwind,js,react,nextjs,py" alt="Tecnologías" />
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=typescript,cs,dotnet,git,firebase" alt="Tecnologías" />
