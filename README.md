@@ -22,11 +22,9 @@ Actualmente enfocado en:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=astro,html,css,tailwind,js,react,nextjs,py" alt="Tecnologías" />
 </p>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,cs,dotnet,git,firebase" alt="Tecnologías" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript,cs,dotnet,git,firebase,mysql,mongodb,server" alt="Tecnologías" />
 </p>
 
 ---
