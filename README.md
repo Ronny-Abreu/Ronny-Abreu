@@ -12,7 +12,7 @@
 Actualmente enfocado en:
 
 - 🧩 Desarrollo Full Stack con **ASP.NET Core** y **APIs RESTful**
-- 🎨 Diseño UI moderno usando **Tailwind CSS** y **Figma**
+- 🎨 Diseño UI moderno usando **Tailwind CSS**, **Figma**, **Framer Motion** y **Shad CDN**
 - 🌱 *React, Tailwindcss, JavaScript* y explorando **TS**
 
 ---
@@ -24,7 +24,7 @@ Actualmente enfocado en:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,cs,dotnet,git,firebase,mysql,mongodb,server" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=typescript,cs,dotnet,git,firebase,mysql,mongodb,azure" alt="Tecnologías" />
 </p>
 
 ---
